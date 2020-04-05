@@ -827,10 +827,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@hoc-element/table@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@hoc-element/table/-/table-0.0.6.tgz#c48a0728089e7460f02132c7deb04ab5d0153eaf"
-  integrity sha512-GVWzBbcIH/oGnDUMUrqgTBpysPqxl/cuhEsan9nInezPbz4BHjdAkeJDpgGc/80G6Hr7YV17UeDcAzOZc81/lA==
+"@hoc-element/table@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@hoc-element/table/-/table-0.1.1.tgz#bfdcf2da0847a642a5fb13ca8a9a568f72da5c24"
+  integrity sha512-+vOmuMcnvgeakUSoYYhZ+H2t3rQZDLMXePpIlmyOH+NVFLWS93hMZUdgBe39TUYdzUUExORogi06ZtPzlSj5QQ==
   dependencies:
     vue "^2.5.17"
 
