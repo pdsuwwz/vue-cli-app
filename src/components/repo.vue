@@ -20,7 +20,6 @@ export default {
 
 <style lang="scss" scoped>
 .repo {
-  width: 410px;
   margin: 0 auto;
   display: flex;
   justify-content: space-around;
@@ -30,6 +29,11 @@ export default {
   a {
     color: #2c3e50;
     text-decoration: none;
+  }
+}
+@media screen and (min-width: 400px) {
+  .repo {
+    width: 400px;
   }
 }
 </style>
