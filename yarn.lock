@@ -827,12 +827,12 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@hoc-element/table@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@hoc-element/table/-/table-0.1.1.tgz#bfdcf2da0847a642a5fb13ca8a9a568f72da5c24"
-  integrity sha512-+vOmuMcnvgeakUSoYYhZ+H2t3rQZDLMXePpIlmyOH+NVFLWS93hMZUdgBe39TUYdzUUExORogi06ZtPzlSj5QQ==
+"@hoc-element/table@^0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@hoc-element/table/-/table-0.2.2.tgz#d8c03e4def3cb8c86e66be32d0878e064af67483"
+  integrity sha512-HVNQT7aWMZmnWafCNPrX92nlSI6CR5Auf7TWgUpzWrzRRG3oMqVB5JNfOz4f1Xo6os1TFbhb5a5g2kpeQ53DUw==
   dependencies:
-    vue "^2.5.17"
+    vue "^2.6.11"
 
 "@intervolga/optimize-cssnano-plugin@^1.0.5":
   version "1.0.6"
@@ -8596,7 +8596,7 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
-vue@^2.5.17:
+vue@^2.6.11:
   version "2.6.11"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"
   integrity sha512-VfPwgcGABbGAue9+sfrD4PuwFar7gPb1yl1UK1MwXoQPAw0BKSqWfoYCT/ThFrdEVWoI51dBuyCoiNU9bZDZxQ==

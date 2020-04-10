@@ -170,7 +170,9 @@ export default {
           // 渲染组件，返回值为一个数组， data 作为组件的 v-model，适用于需要展示复杂的数据的场景
           renderComponent (row) {
             return [
-              { name: 'TableChildrenA', data: row }
+              { name: 'TableChildrenA', data: row },
+              { name: 'el-input', data: row.name },
+              { name: 'el-rate', data: row.id }
             ]
           }
         },
