@@ -29,6 +29,7 @@ module.exports = {
     // allow debugger during development
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
     'camelcase': [0, { 'properties': 'never' }],
-    'vue/no-unused-components': 'off'
+    'vue/no-unused-components': 'off',
+    'no-trailing-spaces': 'off'
   }
 }

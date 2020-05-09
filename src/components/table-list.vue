@@ -50,7 +50,10 @@ export default {
     },
     async getList () {
       this.loading = true
+      
       await this.sleep()
+      
+      this.sourceList = this.mockData
       this.loading = false
     },
     setFixedRight () {
@@ -113,7 +116,6 @@ export default {
   },
   async created () {
     await this.getList()
-    this.sourceList = this.mockData
   },
   computed: {
     mockData () {
