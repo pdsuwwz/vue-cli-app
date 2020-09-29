@@ -31,6 +31,7 @@
         :loading="loading"
         :border="border"
         :height="tableHeight"
+        highlight-current-row
         :table-events="{
           'row-click': handleRowClick
         }"
