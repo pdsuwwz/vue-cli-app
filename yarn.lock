@@ -1011,10 +1011,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@hoc-element/table@^0.2.2":
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/@hoc-element/table/-/table-0.2.2.tgz#d8c03e4def3cb8c86e66be32d0878e064af67483"
-  integrity sha512-HVNQT7aWMZmnWafCNPrX92nlSI6CR5Auf7TWgUpzWrzRRG3oMqVB5JNfOz4f1Xo6os1TFbhb5a5g2kpeQ53DUw==
+"@hoc-element/table@^0.2.4":
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/@hoc-element/table/-/table-0.2.4.tgz#979d65ced088e3e111849c31f729f18f7dca9a2f"
+  integrity sha512-x+oV3xOwTvu85qPkyRoHDqTKfQirGQY5IGp8ytH+jZiUQkM+Z/NJbsQskX+KzJ4hrZ5oVZ8f1/8tkibF27+sFw==
   dependencies:
     vue "^2.6.11"
 
