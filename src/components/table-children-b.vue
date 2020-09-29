@@ -3,8 +3,8 @@
     <el-image
       style="width: 100px; height: 100px"
       :src="url"
-      fit="contain">
-    </el-image>
+      fit="contain"
+    />
     <p>{{ value }}</p>
   </div>
 </template>
