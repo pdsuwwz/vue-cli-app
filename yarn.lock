@@ -1011,10 +1011,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@hoc-element/table@^0.2.5":
-  version "0.2.5"
-  resolved "https://registry.yarnpkg.com/@hoc-element/table/-/table-0.2.5.tgz#771af5ea0a984c1e41de0b472aad6b55c066f609"
-  integrity sha512-E32bFevmyuXX0AwBWrZE5gE72ZU5FJ1kjVoZKvl9w5DEBjBcCaXKHw10+HKTruuPPdSzOwL+Apcz3C2xkWt+bg==
+"@hoc-element/table@^0.2.6":
+  version "0.2.6"
+  resolved "https://registry.yarnpkg.com/@hoc-element/table/-/table-0.2.6.tgz#5bf7c33ff28caa464adaaaa6610090c3777e6866"
+  integrity sha512-jR8FCKo4OCjLHr8shwoNBXk7vI/dnYFR247hMlooluqF1ObnmzPzNweIJqaYlQ40KRitKZZL8sPa8biqLfmExA==
 
 "@intervolga/optimize-cssnano-plugin@^1.0.5":
   version "1.0.6"
