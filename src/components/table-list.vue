@@ -1,5 +1,6 @@
 <template>
   <div class="box-container">
+    <Banner />
     <div class="content">
       <hoc-el-table
         ref="singleTable"
@@ -32,6 +33,8 @@
 <script>
 /* eslint-disable vue/no-unused-components */
 
+import Banner from '@/components/banner'
+
 import TableChildrenA from './table-children-a'
 import TableChildrenB from './table-children-b'
 
@@ -40,6 +43,7 @@ import { clipboard } from '@/directive/clipboard'
 
 export default {
   components: {
+    Banner,
     TableChildrenA,
     TableChildrenB
   },
